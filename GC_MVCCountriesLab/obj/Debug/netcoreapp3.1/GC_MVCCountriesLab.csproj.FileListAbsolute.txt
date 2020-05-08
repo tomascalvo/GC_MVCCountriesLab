@@ -1,0 +1,12 @@
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/obj/Debug/netcoreapp3.1/GC_MVCCountriesLab.csprojAssemblyReference.cache
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/obj/Debug/netcoreapp3.1/GC_MVCCountriesLab.csproj.CoreCompileInputs.cache
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/obj/Debug/netcoreapp3.1/GC_MVCCountriesLab.AssemblyInfoInputs.cache
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/obj/Debug/netcoreapp3.1/GC_MVCCountriesLab.AssemblyInfo.cs
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/bin/Debug/netcoreapp3.1/GC_MVCCountriesLab.deps.json
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/bin/Debug/netcoreapp3.1/GC_MVCCountriesLab.runtimeconfig.json
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/bin/Debug/netcoreapp3.1/GC_MVCCountriesLab.runtimeconfig.dev.json
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/bin/Debug/netcoreapp3.1/GC_MVCCountriesLab.dll
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/bin/Debug/netcoreapp3.1/GC_MVCCountriesLab.pdb
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/obj/Debug/netcoreapp3.1/GC_MVCCountriesLab.dll
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/obj/Debug/netcoreapp3.1/GC_MVCCountriesLab.pdb
+/Users/tomasroderickcalvo/Projects/GC_MVCCountriesLab/GC_MVCCountriesLab/obj/Debug/netcoreapp3.1/GC_MVCCountriesLab.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6C0D5F02-1EA7-4A3F-9C26-42C3721B17EB}|Default">
+  <MonoDevelop.Ide.ItemProperties.GC__MVCCountriesLab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GC_MVCCountriesLab/CountryView.cs">
+    <Files>
+      <File FileName="GC_MVCCountriesLab/Program.cs" Line="11" Column="47" />
+      <File FileName="GC_MVCCountriesLab/Country.cs" Line="13" Column="22" />
+      <File FileName="GC_MVCCountriesLab/CountryView.cs" Line="79" Column="37" />
+      <File FileName="GC_MVCCountriesLab/CountryListView.cs" Line="18" Column="29" />
+      <File FileName="GC_MVCCountriesLab/CountryController.cs" Line="18" Column="105" />
+      <File FileName="GC_MVCCountriesLab/Extensions.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GC_MVCCountriesLab" expanded="True">
+            <Node name="GC_MVCCountriesLab" expanded="True">
+              <Node name="CountryView.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

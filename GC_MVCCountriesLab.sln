@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC_MVCCountriesLab", "GC_MVCCountriesLab\GC_MVCCountriesLab.csproj", "{6C0D5F02-1EA7-4A3F-9C26-42C3721B17EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C0D5F02-1EA7-4A3F-9C26-42C3721B17EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0D5F02-1EA7-4A3F-9C26-42C3721B17EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0D5F02-1EA7-4A3F-9C26-42C3721B17EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0D5F02-1EA7-4A3F-9C26-42C3721B17EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
